@@ -14,3 +14,6 @@ centroid embeddings => (https://github.com/Jibrini92/Masters/tree/main/centroid_
 fine-tuning pre-trained RoBERTa model => (https://github.com/Jibrini92/Masters/tree/main/fine_tuning)<br>
 level-3 labeling => (https://github.com/Jibrini92/Masters/tree/main/level%203)<br>
 training data selection => (https://github.com/Jibrini92/Masters/tree/main/training_data)<br>
+# Recommended reading order
+For easiest comprehension, it is recommended to read this directory backward.
+Start with level-3 labeling, as it shows the complete pipeline. Move on to fine-tuning and training data selection to understand the two-level classifier. Centroid, ada_002, and well formness provide more context for the data selection. Finally, text extraction and analysis to understand the raw data.
